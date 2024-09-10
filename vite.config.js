@@ -12,6 +12,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: process?.env?.APP_MODE == "dev" ? " " : '/weblabtest/'
+   base: /* process?.env?.APP_MODE == "dev" ? " "  :*/ '/weblabtest/'
 })
 

@@ -23,7 +23,7 @@ export default {
       cryptoInfo: {
         name: 'Bitcoin',
         symbol: 'BTC',
-        image: '@/assets/images/btc.png',
+        image: '/images/btc.png',
         description: 'Bitcoin is a decentralized digital currency without a central bank or single administrator.',
       },
     };
