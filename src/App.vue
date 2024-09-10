@@ -23,7 +23,7 @@ export default {
       cryptoInfo: {
         name: 'Bitcoin',
         symbol: 'BTC',
-        image: '/images/btc.png',
+        image: '/weblabtest/images/btc.png',
         description: 'Bitcoin is a decentralized digital currency without a central bank or single administrator.',
       },
     };
@@ -42,25 +42,25 @@ export default {
         '/btc': {
           name: 'Bitcoin',
           symbol: 'BTC',
-          image: '/images/btc.png',
+          image: '/weblabtest/images/btc.png',
           description: 'Bitcoin is a decentralized digital currency without a central bank or single administrator.',
         },
         '/eth': {
           name: 'Ethereum',
           symbol: 'ETH',
-          image: '/images/eth.png',
+          image: '/weblabtest/images/eth.png',
           description: 'Ethereum is an open-source, blockchain-based platform for decentralized applications.',
         },
         '/sol': {
           name: 'Solana',
           symbol: 'SOL',
-          image: '/images/sol.png',
+          image: '/weblabtest/images/sol.png',
           description: 'Solana is a highly performant blockchain supporting high throughput and low transaction costs.',
         },
         '/xrp': {
           name: 'Ripple',
           symbol: 'XRP',
-          image: '/images/ripple.png',
+          image: '/weblabtest/images/ripple.png',
           description: 'Ripple is a digital payment protocol designed for fast, low-cost international transfers.',
         },
       };
